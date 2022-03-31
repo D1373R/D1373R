@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @D1373R
+- 👀 I’m interested in geeky stuff
+- 🌱 I’m currently learning Home automation and python scripting
+- 💞️ I’m looking to collaborate with Pigeons
+- 📫 How to reach me? You don't.
